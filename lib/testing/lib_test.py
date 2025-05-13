@@ -5,7 +5,6 @@ from sequences import print_fibonacci
 import io
 import sys
 
-
 class TestPrintFibonacci:
     '''function print_fibonacci()'''
 
